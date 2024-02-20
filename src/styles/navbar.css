@@ -2,7 +2,7 @@ nav{
     background-color: rgba(128, 128, 128, 0.500);
     margin: 0;
 }
-ul {
+nav ul {
     margin: 0px;
     display: flex;
     justify-content: space-between;
@@ -10,15 +10,15 @@ ul {
     list-style: none; 
  }
  
-li {
+nav li {
      font-size: 16px;
      text-decoration: none;
  }
 
- #title{
+nav #title{
     margin-left: 45%;
  }
 
-a {
+nav a {
     text-decoration: none;
  }
