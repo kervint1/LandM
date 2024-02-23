@@ -1,0 +1,23 @@
+
+.sidebar{
+    display: inline-block;
+    width: 30%;
+    height: 1000px;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.contents{
+    display: inline-block;
+    width:70%;
+}

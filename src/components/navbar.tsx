@@ -11,7 +11,7 @@ const navbar = () => {
                 <Link href="/">LandB</Link>
             </li>
             <li id='mypage'>
-              <Link href="/mypage">
+              <Link href="/Mypage">
               <Image
                 src="/images/akaExample.png"
                 alt="説明文"
